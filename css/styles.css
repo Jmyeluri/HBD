@@ -1,0 +1,58 @@
+img{
+
+width: 30em;
+height: 20em;
+left: 40em;
+}
+
+#container{
+
+	position: relative;
+	position: absolute;
+	left: 20em;
+	top: 2em;
+	background-color: 
+}
+
+#title{
+	top: 15em;
+	left: 17em;
+	position: absolute;
+
+}
+#content{
+	position: relative;
+
+
+}
+#button{
+	position: absolute;
+		top: 36em;
+		left: 31em;
+}
+
+.carousel{
+	position: absolute;
+	top: 33em;
+	left: 0.5em;
+	width: 80%;
+}
+
+#hidornah{
+	visibility: hidden;
+
+}
+#tata{
+	position: absolute;
+	top: 26em;
+	left: 20em;
+	padding-right: 15em;
+
+}
+#cake{
+
+	height: 30px;
+	width: 30px;
+}
+
+
