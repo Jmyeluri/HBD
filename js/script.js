@@ -1,7 +1,9 @@
 $(document).ready(function(){
 	//$('#button').click()
    //$('html').css('background-image', 'url(images/BG.jpg)');
-   $('.materialboxed').materialbox();
+   $('.materialboxed').materialbox(
+   	
+   	);
    $('.carousel').carousel({
    			dist:0,
             shift:0,
